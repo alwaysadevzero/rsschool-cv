@@ -8,7 +8,7 @@ Telegram: @dragmac
 
 Discord: Unit#2073
 
-GitHub: alwaysadevzero@gmail.com
+GitHub: @alwaysadevzero
 
 ### About Me
 
