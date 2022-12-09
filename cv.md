@@ -3,22 +3,25 @@
 
 ### Contact information:
 Location: Georgia, Batumi
+
 Telegram: @dragmac
+
 Discord: @muannna
-GitHub: alwaysadevzero
+
+GitHub: Unit#2073
 
 ### About Me
 
 I’m a ex-web3 develope now going towards in frontend side development. My communication skills are excellent and I have strong commitment to research.
 
 ### Skills:
-HTML
-CSS
-Pythom
-Linux
-Docker - Basics
-web3 
-JavaScript - Basics
+- HTML
+- CSS
+- Pythom
+- Linux
+- Docker
+- web3
+- JavaScript
 
 ### Code Example
 ```python
