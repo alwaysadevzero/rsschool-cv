@@ -6,9 +6,9 @@ Location: Georgia, Batumi
 
 Telegram: @dragmac
 
-Discord: @muannna
+Discord: Unit#2073
 
-GitHub: Unit#2073
+GitHub: alwaysadevzero@gmail.com
 
 ### About Me
 
