@@ -43,11 +43,11 @@ class Vision:
 
 ```
 ### Education
-  self-study
+self-study
   
 ### Frontend Experience
 My first CV
 
 ### Languages
-Russian - native speaker
-English - A2
++ Russian - native speaker
++ English - A2
