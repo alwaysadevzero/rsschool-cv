@@ -8,5 +8,95 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <div class="container">
+        <div class="portfolio">
+            <img class="photo" src="pictures/portfolio.jpeg" alt="portfolio" width="400" height="400">
+            <div class="chart-skills">
+                <div id="htmlcss" class="pie"><span>html/css</span></div>
+                <div id="js" class="pie"><span>js</span></div>
+                <div id="docker" class="pie"><span>docker</span></div>
+                <div id="git" class="pie"><span>git</span></div>
+                <div id="linux" class="pie"><span>linux</span></div>
+                <div id="web3" class="pie"><span>web3</span></div>
+                <div id="python" class="pie"><span>python</span></div>
+            </div>
+        </div>
+        <div class="right-side">
+            <div class="description">
+                <h1 class="name">Anton Tarakanov</h1>
+                <main>
+                    <section>
+                        <h2 class="role">FUTURE FRONTEND DEVELOPER</h2>
+                        <p>I’m a ex-web3 developer now going towards in frontend side development. My communication skills are excellent and I have strong commitment to research.</p>
+                    </section>
+                </main>
+                    <section class="projects">
+                        <h2>Projects:</h2>
+                        <a><span>First cv</span></a>
+                    </section>
+            </div>
+        </div>
+        <div class="left-side">
+            <div class="content">
+                <div class="langs">
+                    <span>Languages</span>
+                    <div class="eng">English - intermediate </div>
+                    <div class="rus">Russian - native </div>
+                </div>
+                <footer>
+                    <div class="contacts">
+                        <span class="contact_me">Contact Me</span>
+                        <nav>
+                        <ul class="contact__list">
+                            <li class="contact__item">
+                            Discord: unit#2073
+                            </li>
+                            <li class="contact__item">
+                            Email:<a href="mailto:zeropass@duck.com ">zeropass@duck.com</a>
+                            </li>
+                            <li class="contact__item">
+                            Address:Georgia, Batumi
+                            </li>
+                            <li class="contact__item">
+                                <a class="footer__github" href="https://github.com/petr9ra" target="_blank">
+                                    My GitHub
+                                </a>
+                            </li>
+                            <li class="contact__item"><a class="footer__rsschool" href="https://rs.school/js/" target="_blank">
+                                <img src="pictures/rs_school_js.svg" width="120" height="64" alt="RS School">
+                            </a></li>
+                        </ul>
+                        </nav>
+                    </div>
+                </footer>
+            </div>
+        </div>
+        <div class="code-side">
+            <div class="code">
+                <span>Code</span>
+                <pre>
+                    class Vision:
+                    # given a list of [x, y, w, h] rectangles returned 
+                    # by find(), convert those into a list of
+                    # [x, y] positions in the center of those 
+                    #  rectangles where we can click on those found items
+                    def get_click_points(self, rectangles):
+                        points = []
+                        
+                        # Loop over all the rectangles
+                        for (x, y, w, h) in rectangles:
+                            # Determine the center position
+                            center_x = x + int(w/2)
+                            center_y = y + int(h/2)
+                            # Save the points
+                            points.append((center_x, center_y))
+                 
+                        return points</pre>
+            </div>
+        </div>
+    </div>
+    <!-- <div class="secondcontainer">
+        <div class="left-side"></div> -->
+    
 </body>
 </html>
